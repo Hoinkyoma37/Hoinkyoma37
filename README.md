@@ -30,13 +30,13 @@
 
 <div><p>My overview: </p></div>
 
-![TomasCostaK's github stats](https://github-readme-stats.vercel.app/api?username=TomasCostaK&show_icons=true)
+![TomasCostaK's github stats](https://github-readme-stats.vercel.app/api?username=Hoinkyoma37K&show_icons=true)
 <br />
 
 <!-- Optional Visitors badge: -->
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=TomasCostaK.TomasCostaK)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Hoinkyoma37)
 
-⭐️ From [TomasCostaK](https://github.com/TomasCostaK/TomasCostaK)
+⭐️ From [Aldahir](https://github.com/Hoinkyoma37/Hoinkyoma37/)
 
 <br />
