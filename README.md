@@ -45,7 +45,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="mailto:hrenkin8@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hrenkin8@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:lic.aldahir.ramos@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lic.aldahir.ramos@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Aldahir](https://github.com/Hoinkyoma37)
